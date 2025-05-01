@@ -1,0 +1,5 @@
+Model,Best Parameters,Best Accuracy
+LR,"{'C': 10, 'penalty': 'l2', 'solver': 'sag'}",0.8426395939086294
+SVM,"{'C': 10, 'gamma': 'scale', 'kernel': 'poly'}",0.8381979695431472
+KNN,"{'metric': 'euclidean', 'n_neighbors': 10, 'weights': 'distance'}",0.7779187817258884
+RF,"{'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 500}",0.7550761421319797
