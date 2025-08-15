@@ -1,5 +1,5 @@
 Model,Best Parameters,Best Accuracy
-LR,"{'C': 0.1, 'penalty': 'l2', 'solver': 'lbfgs'}",0.9289340101522843
-SVM,"{'C': 0.01, 'gamma': 'scale', 'kernel': 'linear'}",0.9302030456852792
-KNN,"{'metric': 'manhattan', 'n_neighbors': 5, 'weights': 'distance'}",0.9302030456852792
-RF,"{'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 100}",0.9321065989847716
+LR,{'C': 0.1},0.9301042305334151
+SVM,"{'C': 10, 'kernel': 'rbf'}",0.9294911097486205
+KNN,"{'n_neighbors': 5, 'weights': 'distance'}",0.9288779889638259
+RF,"{'max_depth': None, 'min_samples_leaf': 1, 'n_estimators': 500}",0.9276517473942366
