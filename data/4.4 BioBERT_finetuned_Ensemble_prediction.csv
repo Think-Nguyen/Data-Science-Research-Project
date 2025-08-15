@@ -2,9 +2,10 @@ pt,SOC_ensemble_biobert
 hypotonia,Nervous system disorders
 disseminated intravascular coagulation,Vascular disorders
 shock,"Injury, poisoning and procedural complications"
-terminal state,Psychiatric disorders
+terminal state,General disorders and administration site conditions
 rosacea,Skin and subcutaneous tissue disorders
-ulcer,Gastrointestinal disorders
+goitre,Renal and urinary disorders
+ulcer,Vascular disorders
 epicondylitis,Musculoskeletal and connective tissue disorders
 fistula discharge,General disorders and administration site conditions
 malabsorption,Metabolism and nutrition disorders
@@ -15,17 +16,17 @@ chronic disease,General disorders and administration site conditions
 seasonal affective disorder,Psychiatric disorders
 disturbance in attention,Psychiatric disorders
 keratoacanthoma,Skin and subcutaneous tissue disorders
-cyst,Renal and urinary disorders
+cyst,General disorders and administration site conditions
 toxicity to various agents,General disorders and administration site conditions
 jaundice,Hepatobiliary disorders
-goitre,Renal and urinary disorders
-myotonic dystrophy,Surgical and medical procedures
+bowen's disease,Gastrointestinal disorders
+myotonic dystrophy,Musculoskeletal and connective tissue disorders
 fistula,General disorders and administration site conditions
-induration,General disorders and administration site conditions
+induration,Skin and subcutaneous tissue disorders
 haemoptysis,"Respiratory, thoracic and mediastinal disorders"
 obstructive airways disorder,"Respiratory, thoracic and mediastinal disorders"
 adnexal torsion,Reproductive system and breast disorders
-iritis,Eye disorders
+iritis,Musculoskeletal and connective tissue disorders
 mammary duct ectasia,Reproductive system and breast disorders
 pleurisy,"Respiratory, thoracic and mediastinal disorders"
 appendix disorder,Gastrointestinal disorders
@@ -36,14 +37,15 @@ affect lability,Psychiatric disorders
 scab,Skin and subcutaneous tissue disorders
 anger,Psychiatric disorders
 adhesion,General disorders and administration site conditions
-langerhans' cell histiocytosis,Blood and lymphatic system disorders
+langerhans' cell histiocytosis,Immune system disorders
 acrochordon,Cardiac disorders
 diabetic dermopathy,Skin and subcutaneous tissue disorders
 disorientation,Nervous system disorders
 splenomegaly,Hepatobiliary disorders
 vasodilatation,Vascular disorders
+miliaria,Skin and subcutaneous tissue disorders
 haemorrhagic diathesis,Vascular disorders
-spinal segmental dysfunction,Musculoskeletal and connective tissue disorders
+spinal segmental dysfunction,Nervous system disorders
 febrile neutropenia,Blood and lymphatic system disorders
 arachnoiditis,Nervous system disorders
 paranoia,Nervous system disorders
@@ -51,15 +53,18 @@ eructation,Skin and subcutaneous tissue disorders
 faecaloma,Gastrointestinal disorders
 seroma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
 tachypnoea,"Respiratory, thoracic and mediastinal disorders"
-adenoidal disorder,Reproductive system and breast disorders
+adenoidal disorder,Gastrointestinal disorders
 snoring,"Respiratory, thoracic and mediastinal disorders"
 menorrhagia,Reproductive system and breast disorders
-miliaria,Hepatobiliary disorders
 aneurysm,Vascular disorders
 immunosuppression,Immune system disorders
 obstruction,Gastrointestinal disorders
-melaena,Gastrointestinal disorders
-periodontitis,Gastrointestinal disorders
+melaena,Hepatobiliary disorders
+periodontitis,General disorders and administration site conditions
+toxoplasmosis,Infections and infestations
+growth failure,Metabolism and nutrition disorders
+neutropenia,Blood and lymphatic system disorders
+pancytopenia,Blood and lymphatic system disorders
 multiple system atrophy,Nervous system disorders
 pallor,Skin and subcutaneous tissue disorders
 immobile,Musculoskeletal and connective tissue disorders
@@ -67,38 +72,38 @@ victim of crime,Psychiatric disorders
 hiccups,Nervous system disorders
 hordeolum,Infections and infestations
 bicytopenia,Blood and lymphatic system disorders
-neutropenia,Blood and lymphatic system disorders
 hyperventilation,"Respiratory, thoracic and mediastinal disorders"
 somatic symptom disorder,Psychiatric disorders
 effusion,"Respiratory, thoracic and mediastinal disorders"
-formication,Skin and subcutaneous tissue disorders
+formication,Gastrointestinal disorders
 hyperemesis gravidarum,"Pregnancy, puerperium and perinatal conditions"
 facial spasm,Nervous system disorders
-algophobia,Skin and subcutaneous tissue disorders
-coccydynia,"Respiratory, thoracic and mediastinal disorders"
-listless,Gastrointestinal disorders
+algophobia,Psychiatric disorders
+coccydynia,Surgical and medical procedures
+listless,General disorders and administration site conditions
 orchitis,Reproductive system and breast disorders
-unresponsive to stimuli,General disorders and administration site conditions
-somnambulism,Metabolism and nutrition disorders
+unresponsive to stimuli,Nervous system disorders
+somnambulism,Psychiatric disorders
 ecchymosis,Skin and subcutaneous tissue disorders
 secondary cerebellar degeneration,Nervous system disorders
-postoperative adhesion,General disorders and administration site conditions
+postoperative adhesion,"Injury, poisoning and procedural complications"
 helplessness,Psychiatric disorders
 volvulus,Vascular disorders
 aspartate aminotransferase,Investigations
-cystocele,Reproductive system and breast disorders
+discharge,General disorders and administration site conditions
+cystocele,Surgical and medical procedures
 otitis media acute,"Respiratory, thoracic and mediastinal disorders"
-sluggishness,Vascular disorders
-multiple organ dysfunction syndrome,"Injury, poisoning and procedural complications"
+sluggishness,Nervous system disorders
+multiple organ dysfunction syndrome,General disorders and administration site conditions
 dysdiadochokinesis,Nervous system disorders
 hypertonia,Nervous system disorders
 nystagmus,Nervous system disorders
-choking,Gastrointestinal disorders
+choking,Nervous system disorders
 prolapse,Reproductive system and breast disorders
 capillary fragility,Vascular disorders
-thirst,Metabolism and nutrition disorders
-behcet's syndrome,Immune system disorders
-calcinosis,Renal and urinary disorders
+thirst,Renal and urinary disorders
+behcet's syndrome,Skin and subcutaneous tissue disorders
+calcinosis,Metabolism and nutrition disorders
 spleen disorder,Hepatobiliary disorders
 peritonitis,Infections and infestations
 hemiparesis,Nervous system disorders
@@ -106,35 +111,37 @@ lithiasis,Renal and urinary disorders
 dysentery,Gastrointestinal disorders
 hypoxia,General disorders and administration site conditions
 peau d'orange,Skin and subcutaneous tissue disorders
-decubitus ulcer,Gastrointestinal disorders
+decubitus ulcer,General disorders and administration site conditions
 daydreaming,Psychiatric disorders
 lentigo maligna,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
 post inflammatory pigmentation change,Skin and subcutaneous tissue disorders
 rhinalgia,"Respiratory, thoracic and mediastinal disorders"
+lymphopenia,Blood and lymphatic system disorders
 pigmentation disorder,Skin and subcutaneous tissue disorders
 varicophlebitis,Vascular disorders
 oophoritis,Reproductive system and breast disorders
-fibrosis,Renal and urinary disorders
+fibrosis,General disorders and administration site conditions
 white matter lesion,Nervous system disorders
+short-bowel syndrome,Gastrointestinal disorders
 asphyxia,"Injury, poisoning and procedural complications"
-cyst rupture,Renal and urinary disorders
+cyst rupture,General disorders and administration site conditions
 dysphemia,Nervous system disorders
 pupils unequal,Eye disorders
-auditory disorder,Ear and labyrinth disorders
+auditory disorder,Nervous system disorders
 ascites,Hepatobiliary disorders
-cognitive disorder,Psychiatric disorders
+cognitive disorder,Nervous system disorders
 affective disorder,Psychiatric disorders
 breath odour,"Respiratory, thoracic and mediastinal disorders"
-dacryostenosis acquired,Renal and urinary disorders
+dacryostenosis acquired,Musculoskeletal and connective tissue disorders
 serotonin syndrome,Psychiatric disorders
 coagulopathy,Blood and lymphatic system disorders
 acute abdomen,Gastrointestinal disorders
 mydriasis,Eye disorders
-mumps,Gastrointestinal disorders
+mumps,Infections and infestations
 excessive granulation tissue,General disorders and administration site conditions
-suture rupture,Musculoskeletal and connective tissue disorders
+suture rupture,"Injury, poisoning and procedural complications"
 atrophic vulvovaginitis,Reproductive system and breast disorders
-dysgraphia,Gastrointestinal disorders
+dysgraphia,Nervous system disorders
 epidural injection,General disorders and administration site conditions
 polydipsia,Gastrointestinal disorders
 osteitis,Musculoskeletal and connective tissue disorders
@@ -150,31 +157,30 @@ dactylitis,Musculoskeletal and connective tissue disorders
 hunger,Metabolism and nutrition disorders
 dyspareunia,Reproductive system and breast disorders
 pertussis,Infections and infestations
-pancytopenia,Blood and lymphatic system disorders
 palmoplantar keratoderma,Skin and subcutaneous tissue disorders
-teratoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+teratoma,Reproductive system and breast disorders
 failure to thrive,"Congenital, familial and genetic disorders"
-henoch-schonlein purpura,Immune system disorders
+henoch-schonlein purpura,Hepatobiliary disorders
 leukocytosis,Blood and lymphatic system disorders
-purpura,Blood and lymphatic system disorders
-drowning,"Injury, poisoning and procedural complications"
+purpura,General disorders and administration site conditions
+drowning,Nervous system disorders
 spider naevus,Skin and subcutaneous tissue disorders
 amblyopia,Eye disorders
-disease susceptibility,General disorders and administration site conditions
-hyperchlorhydria,Metabolism and nutrition disorders
+disease susceptibility,Immune system disorders
+hyperchlorhydria,Skin and subcutaneous tissue disorders
 transfusion,Blood and lymphatic system disorders
-discharge,General disorders and administration site conditions
 organ failure,Renal and urinary disorders
 impaired driving ability,Social circumstances
-pustule,General disorders and administration site conditions
-ehlers-danlos syndrome,Immune system disorders
-hypermobility syndrome,Social circumstances
+pustule,Skin and subcutaneous tissue disorders
+ehlers-danlos syndrome,Infections and infestations
+hypermobility syndrome,Musculoskeletal and connective tissue disorders
 pouchitis,Gastrointestinal disorders
 dermoid cyst,Skin and subcutaneous tissue disorders
 hermansky-pudlak syndrome,"Congenital, familial and genetic disorders"
 subclavian steal syndrome,Vascular disorders
-aspiration,Infections and infestations
-hypereosinophilic syndrome,Blood and lymphatic system disorders
+symptom masked,General disorders and administration site conditions
+aspiration,"Injury, poisoning and procedural complications"
+hypereosinophilic syndrome,Metabolism and nutrition disorders
 splinter,Musculoskeletal and connective tissue disorders
 keratopathy,Eye disorders
 ichthyosis,Skin and subcutaneous tissue disorders
@@ -184,10 +190,10 @@ upper airway obstruction,"Respiratory, thoracic and mediastinal disorders"
 denture wearer,Social circumstances
 pneumatosis,Musculoskeletal and connective tissue disorders
 metatarsalgia,Musculoskeletal and connective tissue disorders
-necrosis,Musculoskeletal and connective tissue disorders
+necrosis,General disorders and administration site conditions
 articular calcification,Musculoskeletal and connective tissue disorders
-restlessness,Nervous system disorders
-sialoadenitis,Gastrointestinal disorders
+restlessness,Psychiatric disorders
+sialoadenitis,Infections and infestations
 pterygium,Eye disorders
 myelopathy,Musculoskeletal and connective tissue disorders
 lenticular opacities,Eye disorders
@@ -195,17 +201,18 @@ adenoiditis,Gastrointestinal disorders
 perforation,Vascular disorders
 postmenopause,Endocrine disorders
 plasmapheresis,Surgical and medical procedures
-incoherent,General disorders and administration site conditions
+incoherent,Nervous system disorders
 amputee,"Injury, poisoning and procedural complications"
 staring,Psychiatric disorders
 agoraphobia,Psychiatric disorders
 tonsillolith,Gastrointestinal disorders
-high frequency ablation,Cardiac disorders
-madarosis,Skin and subcutaneous tissue disorders
+high frequency ablation,"Injury, poisoning and procedural complications"
+madarosis,Reproductive system and breast disorders
 rales,"Respiratory, thoracic and mediastinal disorders"
 presbyopia,Eye disorders
-foreign body reaction,Immune system disorders
+foreign body reaction,General disorders and administration site conditions
 livedo reticularis,Skin and subcutaneous tissue disorders
+cauda equina syndrome,Musculoskeletal and connective tissue disorders
 dyspraxia,Nervous system disorders
 otitis externa,"Respiratory, thoracic and mediastinal disorders"
 adnexa uteri cyst,Reproductive system and breast disorders
@@ -215,57 +222,61 @@ delusion,Psychiatric disorders
 lid sulcus deepened,Eye disorders
 hypospadias,Reproductive system and breast disorders
 felty's syndrome,General disorders and administration site conditions
+anaphylactoid reaction,Immune system disorders
 trismus,Ear and labyrinth disorders
-acquired phimosis,Reproductive system and breast disorders
+acquired phimosis,Skin and subcutaneous tissue disorders
 autism spectrum disorder,Psychiatric disorders
-infarction,Nervous system disorders
-extrasystoles,Nervous system disorders
-peripheral coldness,Vascular disorders
+infarction,Vascular disorders
+extrasystoles,Cardiac disorders
+peripheral coldness,General disorders and administration site conditions
+tachyphylaxis,General disorders and administration site conditions
 haematological malignancy,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
 cholestasis,Hepatobiliary disorders
 systemic inflammatory response syndrome,Immune system disorders
 listeriosis,Infections and infestations
 intussusception,Gastrointestinal disorders
-myelitis transverse,Infections and infestations
+myelitis transverse,Surgical and medical procedures
 mastitis,Reproductive system and breast disorders
 pulse absent,Investigations
 thyroglossal cyst,"Respiratory, thoracic and mediastinal disorders"
 thymoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
 lithotripsy,Surgical and medical procedures
-perforated ulcer,Gastrointestinal disorders
-myopathy,Eye disorders
+perforated ulcer,Vascular disorders
+myopathy,Cardiac disorders
 phagocytosis,Blood and lymphatic system disorders
 abulia,Skin and subcutaneous tissue disorders
-oroantral fistula,"Respiratory, thoracic and mediastinal disorders"
+oroantral fistula,Cardiac disorders
 tissue infiltration,Musculoskeletal and connective tissue disorders
-long qt syndrome,Cardiac disorders
+long qt syndrome,Metabolism and nutrition disorders
 physical assault,"Injury, poisoning and procedural complications"
-cyanosis,"Respiratory, thoracic and mediastinal disorders"
+cyanosis,Ear and labyrinth disorders
 tearfulness,Eye disorders
 prosopagnosia,Nervous system disorders
-bartholin's cyst,Renal and urinary disorders
+bartholin's cyst,Vascular disorders
 cheilitis,Skin and subcutaneous tissue disorders
 huntington's disease,Nervous system disorders
 alveolar osteitis,Musculoskeletal and connective tissue disorders
 metastasis,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+nonspecific reaction,General disorders and administration site conditions
 endovenous ablation,Surgical and medical procedures
 balanoposthitis,Musculoskeletal and connective tissue disorders
 phonophobia,Psychiatric disorders
 dyschromatopsia,Nervous system disorders
-short-bowel syndrome,Gastrointestinal disorders
-body temperature fluctuation,Metabolism and nutrition disorders
+body temperature fluctuation,General disorders and administration site conditions
 monoparesis,Nervous system disorders
 dyslexia,Nervous system disorders
 traumatic shock,"Injury, poisoning and procedural complications"
-multi-organ disorder,"Injury, poisoning and procedural complications"
+multi-organ disorder,Vascular disorders
 phlebitis,Vascular disorders
-self esteem inflated,Investigations
+self esteem inflated,Psychiatric disorders
 chalazion,Skin and subcutaneous tissue disorders
+hangover,Psychiatric disorders
 labial tie,Gastrointestinal disorders
-peritoneal cyst,Hepatobiliary disorders
+peritoneal cyst,Renal and urinary disorders
 mastoiditis,"Respiratory, thoracic and mediastinal disorders"
-ephelides,Product issues
+ephelides,Gastrointestinal disorders
 hypertensive crisis,Vascular disorders
+clumsiness,Nervous system disorders
 pathogen resistance,Infections and infestations
 petechiae,Skin and subcutaneous tissue disorders
 salmonellosis,Infections and infestations
@@ -274,63 +285,65 @@ insurance issue,Product issues
 schizophrenia,Psychiatric disorders
 dumping syndrome,Gastrointestinal disorders
 serum sickness,Immune system disorders
-tachyphylaxis,Vascular disorders
 neuritis,Nervous system disorders
 vitiligo,Skin and subcutaneous tissue disorders
-hangover,Psychiatric disorders
 stevens-johnson syndrome,Gastrointestinal disorders
-soliloquy,Metabolism and nutrition disorders
+soliloquy,Gastrointestinal disorders
 epiglottitis,"Respiratory, thoracic and mediastinal disorders"
 dandruff,Skin and subcutaneous tissue disorders
 syringe issue,General disorders and administration site conditions
 reading disorder,Nervous system disorders
-necrobiosis lipoidica diabeticorum,Skin and subcutaneous tissue disorders
-anaphylactoid reaction,Immune system disorders
+necrobiosis lipoidica diabeticorum,Metabolism and nutrition disorders
 inappropriate affect,Psychiatric disorders
 infertility,Reproductive system and breast disorders
 sexually transmitted disease,Infections and infestations
 phobia,Psychiatric disorders
 hand-foot-and-mouth disease,Gastrointestinal disorders
 macule,Eye disorders
-asthenopia,Eye disorders
+asthenopia,Skin and subcutaneous tissue disorders
 claustrophobia,Psychiatric disorders
-suspiciousness,Investigations
+suspiciousness,Psychiatric disorders
 hypertrichosis,Musculoskeletal and connective tissue disorders
 illusion,Nervous system disorders
 obsessive-compulsive disorder,Psychiatric disorders
 apathy,Nervous system disorders
 grief reaction,Psychiatric disorders
 breech presentation,"Pregnancy, puerperium and perinatal conditions"
-haemochromatosis,Hepatobiliary disorders
+haemochromatosis,Metabolism and nutrition disorders
 screaming,Psychiatric disorders
 distractibility,Psychiatric disorders
 guillain-barre syndrome,Immune system disorders
 hypomania,Psychiatric disorders
 mania,Psychiatric disorders
-telangiectasia,Vascular disorders
+telangiectasia,Eye disorders
 drug reaction with eosinophilia and systemic symptoms,General disorders and administration site conditions
 skull fractured base,Nervous system disorders
 retention cyst,Gastrointestinal disorders
 acute coronary syndrome,Vascular disorders
-hypothermia,Nervous system disorders
-hypertrophy,Cardiac disorders
+hypothermia,General disorders and administration site conditions
+hypertrophy,Musculoskeletal and connective tissue disorders
+astigmatism,Eye disorders
+rhonchi,"Respiratory, thoracic and mediastinal disorders"
 conduction disorder,Nervous system disorders
 femoroacetabular impingement,Musculoskeletal and connective tissue disorders
 ototoxicity,Ear and labyrinth disorders
 mechanical ventilation,Surgical and medical procedures
 rectocele,Gastrointestinal disorders
 monocytosis,Blood and lymphatic system disorders
+atlantoaxial instability,Musculoskeletal and connective tissue disorders
+spinal instability,Musculoskeletal and connective tissue disorders
 strabismus,Eye disorders
-hydrocele,Renal and urinary disorders
+hydrocele,Reproductive system and breast disorders
 cerebellar atrophy,Nervous system disorders
 posterior capsule opacification,Eye disorders
+mastication disorder,Gastrointestinal disorders
 violence-related symptom,Psychiatric disorders
 keratorhexis,Skin and subcutaneous tissue disorders
-lymphopenia,Blood and lymphatic system disorders
 progressive massive fibrosis,General disorders and administration site conditions
+macrocytosis,Blood and lymphatic system disorders
 pseudocyst,Gastrointestinal disorders
-pickwickian syndrome,Renal and urinary disorders
-botulism,Infections and infestations
+pickwickian syndrome,Musculoskeletal and connective tissue disorders
+botulism,Nervous system disorders
 divorced,Social circumstances
 gynaecomastia,Reproductive system and breast disorders
 haemolysis,Blood and lymphatic system disorders
@@ -338,87 +351,93 @@ kyphosis,Musculoskeletal and connective tissue disorders
 hypercapnia,"Respiratory, thoracic and mediastinal disorders"
 lordosis,Musculoskeletal and connective tissue disorders
 molluscum contagiosum,Infections and infestations
-diaphragmalgia,Musculoskeletal and connective tissue disorders
+diaphragmalgia,Nervous system disorders
 wrong schedule,Social circumstances
 vitreal cells,Eye disorders
 learning disorder,Psychiatric disorders
-miller fisher syndrome,Nervous system disorders
+necrotising ulcerative gingivostomatitis,Gastrointestinal disorders
+miller fisher syndrome,Metabolism and nutrition disorders
 hyporeflexia,Nervous system disorders
 glare,Eye disorders
-parotid gland enlargement,Endocrine disorders
-metallosis of globe,Eye disorders
+hypovolaemic shock,Vascular disorders
+parotid gland enlargement,Gastrointestinal disorders
+metallosis of globe,Musculoskeletal and connective tissue disorders
 allodynia,Nervous system disorders
 cachexia,Metabolism and nutrition disorders
 facial wasting,Musculoskeletal and connective tissue disorders
 starvation,Metabolism and nutrition disorders
 hyperleukocytosis,Blood and lymphatic system disorders
-moyamoya disease,Nervous system disorders
-acquired hydrocele,Renal and urinary disorders
+moyamoya disease,Vascular disorders
+acquired hydrocele,Reproductive system and breast disorders
 hypoventilation,"Respiratory, thoracic and mediastinal disorders"
 oligodipsia,Gastrointestinal disorders
 articular disc disorder,Musculoskeletal and connective tissue disorders
 colpocele,Reproductive system and breast disorders
-laziness,General disorders and administration site conditions
+laziness,Nervous system disorders
+atrophy,Musculoskeletal and connective tissue disorders
+self-medication,Psychiatric disorders
 palmoplantar pustulosis,Skin and subcutaneous tissue disorders
 quadriparesis,Nervous system disorders
 living in residential institution,Social circumstances
 shock hypoglycaemic,Metabolism and nutrition disorders
 cholangiolitis,Hepatobiliary disorders
 seborrhoea,Gastrointestinal disorders
-meconium aspiration syndrome,Gastrointestinal disorders
+meconium aspiration syndrome,"Respiratory, thoracic and mediastinal disorders"
 smallpox,Infections and infestations
 agranulocytosis,Blood and lymphatic system disorders
-eosinophilia,Blood and lymphatic system disorders
+eosinophilia,"Respiratory, thoracic and mediastinal disorders"
 chloroma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
-euthanasia,"Injury, poisoning and procedural complications"
+euthanasia,Nervous system disorders
 extrapyramidal disorder,Nervous system disorders
+orthopnoea,"Respiratory, thoracic and mediastinal disorders"
 odontogenic cyst,Musculoskeletal and connective tissue disorders
-stubbornness,General disorders and administration site conditions
+stubbornness,Psychiatric disorders
 meteoropathy,General disorders and administration site conditions
 ependymoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
 otitis media,"Respiratory, thoracic and mediastinal disorders"
 torticollis,Nervous system disorders
 contraindication to vaccination,General disorders and administration site conditions
-nonspecific reaction,General disorders and administration site conditions
 motion sickness,Nervous system disorders
 microcephaly,"Congenital, familial and genetic disorders"
 achromotrichia acquired,Eye disorders
-dysbiosis,Gastrointestinal disorders
-alcohol detoxification,Surgical and medical procedures
+haematotoxicity,"Injury, poisoning and procedural complications"
+dysbiosis,Infections and infestations
+alcohol detoxification,Metabolism and nutrition disorders
 epididymitis,Reproductive system and breast disorders
 heat exhaustion,General disorders and administration site conditions
 steatorrhoea,Gastrointestinal disorders
-debridement,Musculoskeletal and connective tissue disorders
-toxoplasmosis,Infections and infestations
-accommodation disorder,Nervous system disorders
+debridement,"Injury, poisoning and procedural complications"
+accommodation disorder,Eye disorders
 empyema,Infections and infestations
 pudendal canal syndrome,Gastrointestinal disorders
 hypopnoea,"Respiratory, thoracic and mediastinal disorders"
 bed rest,Social circumstances
 oculogyric crisis,Eye disorders
+cryptitis,Gastrointestinal disorders
 clot retraction,Blood and lymphatic system disorders
 eschar,Skin and subcutaneous tissue disorders
 meniscal degeneration,Musculoskeletal and connective tissue disorders
-metrorrhagia,Reproductive system and breast disorders
+metrorrhagia,Gastrointestinal disorders
 tinea versicolour,Skin and subcutaneous tissue disorders
 pulseless electrical activity,Nervous system disorders
 schwannoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
 hyperthermia,General disorders and administration site conditions
-miosis,Nervous system disorders
+miosis,Renal and urinary disorders
 trigeminal neuritis,Nervous system disorders
 anisocytosis,Blood and lymphatic system disorders
-mean cell haemoglobin,Investigations
+mean cell haemoglobin,Blood and lymphatic system disorders
 bruxism,Musculoskeletal and connective tissue disorders
 atypical haemolytic uraemic syndrome,Renal and urinary disorders
 alveolitis,"Respiratory, thoracic and mediastinal disorders"
 enterobiasis,Gastrointestinal disorders
-apgar score low,Investigations
-atrophy,Musculoskeletal and connective tissue disorders
+apgar score low,"Pregnancy, puerperium and perinatal conditions"
 seminoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
 poor personal hygiene,Social circumstances
-omphalitis,Infections and infestations
+neutrophilia,Blood and lymphatic system disorders
+omphalitis,"Injury, poisoning and procedural complications"
 angular cheilitis,Skin and subcutaneous tissue disorders
 local reaction,General disorders and administration site conditions
+xerosis,Skin and subcutaneous tissue disorders
 metaplasia,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
 tourette's disorder,Psychiatric disorders
 amyloidosis,Metabolism and nutrition disorders
@@ -432,120 +451,115 @@ menstruation irregular,Reproductive system and breast disorders
 dystonia,Nervous system disorders
 growth disorder,"Congenital, familial and genetic disorders"
 communication disorder,Psychiatric disorders
-varicella,Cardiac disorders
+varicella,Gastrointestinal disorders
 maculopathy,Eye disorders
-colporrhaphy,Vascular disorders
+colporrhaphy,Gastrointestinal disorders
 adenoidal hypertrophy,Reproductive system and breast disorders
 lymphangitis,Vascular disorders
-mastication disorder,Gastrointestinal disorders
 injection related reaction,General disorders and administration site conditions
-clinically isolated syndrome,Psychiatric disorders
-atlantoaxial instability,Musculoskeletal and connective tissue disorders
-spinal instability,Musculoskeletal and connective tissue disorders
+clinically isolated syndrome,General disorders and administration site conditions
 immediate post-injection reaction,General disorders and administration site conditions
 cerebellar syndrome,Nervous system disorders
 leptospirosis,Infections and infestations
 atlantoaxial subluxation,Musculoskeletal and connective tissue disorders
+fasting,Metabolism and nutrition disorders
 electrocution,"Injury, poisoning and procedural complications"
 haemodialysis,Surgical and medical procedures
-cauda equina syndrome,Musculoskeletal and connective tissue disorders
+basedow's disease,Metabolism and nutrition disorders
 ketosis,Metabolism and nutrition disorders
-cryptitis,Gastrointestinal disorders
 housebound,Social circumstances
 struck by lightning,"Injury, poisoning and procedural complications"
 thyrotoxic crisis,Endocrine disorders
 myoclonus,Nervous system disorders
 citrate toxicity,Metabolism and nutrition disorders
-cleft palate,General disorders and administration site conditions
-inability to afford medication,Social circumstances
+cleft palate,Skin and subcutaneous tissue disorders
+inability to afford medication,General disorders and administration site conditions
 haemolytic uraemic syndrome,Renal and urinary disorders
 right ventricle outflow tract obstruction,Cardiac disorders
-lipohypertrophy,Metabolism and nutrition disorders
+lipohypertrophy,Skin and subcutaneous tissue disorders
+paradoxical drug reaction,General disorders and administration site conditions
 adenovirus reactivation,Infections and infestations
+unmasking of previously unidentified disease,General disorders and administration site conditions
 hypermetropia,Eye disorders
 nosophobia,Psychiatric disorders
 carotidynia,Reproductive system and breast disorders
 adjustment disorder,Psychiatric disorders
-disuse syndrome,Musculoskeletal and connective tissue disorders
 epispadias,Skin and subcutaneous tissue disorders
+disuse syndrome,Musculoskeletal and connective tissue disorders
 electric shock,"Injury, poisoning and procedural complications"
 schizophreniform disorder,Psychiatric disorders
 persecutory delusion,Psychiatric disorders
-haemoperitoneum,Gastrointestinal disorders
-astigmatism,Eye disorders
-trichiasis,Eye disorders
-tachyphrenia,Endocrine disorders
+sapho syndrome,General disorders and administration site conditions
+haemoperitoneum,Vascular disorders
+trichiasis,Skin and subcutaneous tissue disorders
+tachyphrenia,Renal and urinary disorders
 crest syndrome,Musculoskeletal and connective tissue disorders
 idiosyncratic drug reaction,General disorders and administration site conditions
 levator syndrome,Musculoskeletal and connective tissue disorders
-red man syndrome,Nervous system disorders
-compartment syndrome,Musculoskeletal and connective tissue disorders
+red man syndrome,Psychiatric disorders
+compartment syndrome,General disorders and administration site conditions
 intermittent claudication,Vascular disorders
 retroperitoneal fibrosis,Renal and urinary disorders
 cns ventriculitis,Cardiac disorders
+shunt malfunction,Vascular disorders
 myelosuppression,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
 foreign body ingestion,"Injury, poisoning and procedural complications"
-growth retardation,"Congenital, familial and genetic disorders"
+growth retardation,Metabolism and nutrition disorders
 serositis,Gastrointestinal disorders
 in vitro fertilisation,Reproductive system and breast disorders
-creutzfeldt-jakob disease,Immune system disorders
+creutzfeldt-jakob disease,"Congenital, familial and genetic disorders"
 tinea cruris,Skin and subcutaneous tissue disorders
 shock symptom,General disorders and administration site conditions
-sarcopenia,Musculoskeletal and connective tissue disorders
-hypovolaemic shock,"Injury, poisoning and procedural complications"
+sarcopenia,General disorders and administration site conditions
 monomelic amyotrophy,Nervous system disorders
 hydrocholecystis,Hepatobiliary disorders
 virologic failure,Infections and infestations
 otitis media chronic,"Respiratory, thoracic and mediastinal disorders"
-basedow's disease,Immune system disorders
 human ehrlichiosis,Infections and infestations
 cirrhosis alcoholic,Hepatobiliary disorders
 keratoconus,Eye disorders
 prurigo,Skin and subcutaneous tissue disorders
 haematospermia,Reproductive system and breast disorders
 body dysmorphic disorder,Psychiatric disorders
-myelofibrosis,Blood and lymphatic system disorders
+myelofibrosis,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
 rectourethral fistula,Gastrointestinal disorders
 acute phase reaction,General disorders and administration site conditions
-dehiscence,Surgical and medical procedures
+dehiscence,General disorders and administration site conditions
 mast cell activation syndrome,Immune system disorders
 mediastinitis,"Respiratory, thoracic and mediastinal disorders"
 ventricle rupture,Cardiac disorders
 animal attack,"Injury, poisoning and procedural complications"
-arnold-chiari malformation,"Congenital, familial and genetic disorders"
+arnold-chiari malformation,Musculoskeletal and connective tissue disorders
 premature rupture of membranes,"Pregnancy, puerperium and perinatal conditions"
 tinea capitis,Skin and subcutaneous tissue disorders
 vestibulitis,Nervous system disorders
-paradoxical drug reaction,General disorders and administration site conditions
 cerebellar infarction,Nervous system disorders
 tissue irritation,General disorders and administration site conditions
 peristalsis visible,Investigations
 faecal calprotectin,Gastrointestinal disorders
 palatal disorder,General disorders and administration site conditions
-cogan's syndrome,Vascular disorders
+cogan's syndrome,Gastrointestinal disorders
 apallic syndrome,Nervous system disorders
-bowen's disease,Gastrointestinal disorders
 pharmacophobia,Psychiatric disorders
-dysphoria,Nervous system disorders
+dysphoria,Psychiatric disorders
 palindromic rheumatism,Musculoskeletal and connective tissue disorders
 coronary ostial stenosis,Vascular disorders
-macrocytosis,Blood and lymphatic system disorders
 skull malformation,Nervous system disorders
 language disorder,Nervous system disorders
 overlap syndrome,Immune system disorders
 prognathism,Musculoskeletal and connective tissue disorders
 aortitis salmonella,Vascular disorders
-hypochromasia,Metabolism and nutrition disorders
+hypochromasia,"Congenital, familial and genetic disorders"
 aura,Nervous system disorders
-vogt-koyanagi-harada disease,Nervous system disorders
+vogt-koyanagi-harada disease,Renal and urinary disorders
 fanconi syndrome,Ear and labyrinth disorders
 pus in stool,Gastrointestinal disorders
 pyelocaliectasis,Renal and urinary disorders
 enuresis,Renal and urinary disorders
 preterm premature rupture of membranes,"Pregnancy, puerperium and perinatal conditions"
-caffeine consumption,Social circumstances
-haematotoxicity,Blood and lymphatic system disorders
-flat affect,Skin and subcutaneous tissue disorders
+caffeine consumption,Metabolism and nutrition disorders
+flat affect,Psychiatric disorders
+myelitis,Surgical and medical procedures
 intraocular pressure fluctuation,Eye disorders
 wagner's disease,Musculoskeletal and connective tissue disorders
 leprosy,Infections and infestations
@@ -555,46 +569,58 @@ facial paresis,Nervous system disorders
 horner's syndrome,Nervous system disorders
 foreign body,Musculoskeletal and connective tissue disorders
 diastasis recti abdominis,Gastrointestinal disorders
-quarantine,General disorders and administration site conditions
+quarantine,"Injury, poisoning and procedural complications"
 pupillary disorder,Eye disorders
 marjolin's ulcer,Gastrointestinal disorders
-salt craving,Psychiatric disorders
+salt craving,Metabolism and nutrition disorders
+encephalocele,Nervous system disorders
 hyponatraemic syndrome,Metabolism and nutrition disorders
 phimosis,Reproductive system and breast disorders
+adactyly,Musculoskeletal and connective tissue disorders
+cystic fibrosis carrier,"Congenital, familial and genetic disorders"
+duane's syndrome,Vascular disorders
+epidermolysis bullosa,Skin and subcutaneous tissue disorders
+macrocephaly,"Congenital, familial and genetic disorders"
+plagiocephaly,Nervous system disorders
+polydactyly,Musculoskeletal and connective tissue disorders
+swyer syndrome,Nervous system disorders
+syndactyly,Musculoskeletal and connective tissue disorders
 micrognathia,Musculoskeletal and connective tissue disorders
 retrognathia,Musculoskeletal and connective tissue disorders
 cervicitis,"Pregnancy, puerperium and perinatal conditions"
 amoebic dysentery,Gastrointestinal disorders
-trichorrhexis,Surgical and medical procedures
+trichorrhexis,Musculoskeletal and connective tissue disorders
 urinoma,Renal and urinary disorders
-hypoperfusion,Vascular disorders
-mucocutaneous disorder,Gastrointestinal disorders
+hypoperfusion,Nervous system disorders
+mucocutaneous disorder,Skin and subcutaneous tissue disorders
 enlarged uvula,Renal and urinary disorders
 hla-b*27 assay,Investigations
 neuritis cranial,Nervous system disorders
 impatience,Psychiatric disorders
-hypobarism,Metabolism and nutrition disorders
-homicide,"Injury, poisoning and procedural complications"
+hypobarism,Nervous system disorders
+homicide,Psychiatric disorders
 adiposis dolorosa,Metabolism and nutrition disorders
 acquired haemophilia,Blood and lymphatic system disorders
-acanthoma,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
-body temperature,Metabolism and nutrition disorders
+acanthoma,Skin and subcutaneous tissue disorders
+body temperature,General disorders and administration site conditions
 facial asymmetry,Skin and subcutaneous tissue disorders
 amaurosis fugax,Eye disorders
 hyperpyrexia,Metabolism and nutrition disorders
+cytokine release syndrome,Immune system disorders
 erythromelalgia,Renal and urinary disorders
 moaning,Psychiatric disorders
 loss of employment,Social circumstances
 syphilis,Infections and infestations
 clubbing,Skin and subcutaneous tissue disorders
-autoinflammatory disease,Immune system disorders
-hyperreflexia,Vascular disorders
-paraparesis,Nervous system disorders
 haemodynamic instability,Vascular disorders
-cholesteatoma,Renal and urinary disorders
-detoxification,General disorders and administration site conditions
+autoinflammatory disease,Immune system disorders
+hyperreflexia,Renal and urinary disorders
+paraparesis,Nervous system disorders
+lemierre syndrome,Surgical and medical procedures
+cholesteatoma,Musculoskeletal and connective tissue disorders
+cytopenia,Blood and lymphatic system disorders
+detoxification,Metabolism and nutrition disorders
 cor pulmonale acute,"Respiratory, thoracic and mediastinal disorders"
-myelitis,Surgical and medical procedures
 hypercoagulation,Vascular disorders
 immunoglobulin g4 related disease,Immune system disorders
 gender dysphoria,Psychiatric disorders
@@ -612,111 +638,120 @@ varicocele,Reproductive system and breast disorders
 schizoaffective disorder,Psychiatric disorders
 jaundice cholestatic,Hepatobiliary disorders
 measles,Infections and infestations
-lipodystrophy acquired,Metabolism and nutrition disorders
+lipodystrophy acquired,"Congenital, familial and genetic disorders"
 granulocytopenia,Blood and lymphatic system disorders
-cytopenia,Blood and lymphatic system disorders
 resuscitation,"Injury, poisoning and procedural complications"
+hydroa vacciniforme,Renal and urinary disorders
 apnoeic attack,"Respiratory, thoracic and mediastinal disorders"
-trendelenburg's symptom,Nervous system disorders
-syndactyly,Musculoskeletal and connective tissue disorders
+trendelenburg's symptom,General disorders and administration site conditions
+microscopic polyangiitis,Vascular disorders
 uterovaginal prolapse,Reproductive system and breast disorders
-acanthosis,General disorders and administration site conditions
-somatic dysfunction,General disorders and administration site conditions
-erythropsia,Blood and lymphatic system disorders
+acanthosis,Skin and subcutaneous tissue disorders
+amoebiasis,Infections and infestations
+somatic dysfunction,Psychiatric disorders
+erythropsia,Eye disorders
 amniorrhoea,"Pregnancy, puerperium and perinatal conditions"
 blau syndrome,Eye disorders
-toxic shock syndrome,"Injury, poisoning and procedural complications"
+toxic shock syndrome,Immune system disorders
 alcohol problem,Psychiatric disorders
-malocclusion,Musculoskeletal and connective tissue disorders
+fallot's tetralogy,"Congenital, familial and genetic disorders"
+malocclusion,Gastrointestinal disorders
 collagen disorder,Musculoskeletal and connective tissue disorders
 eagle's syndrome,Nervous system disorders
 diffuse alveolar damage,"Respiratory, thoracic and mediastinal disorders"
-logorrhoea,Reproductive system and breast disorders
+logorrhoea,Gastrointestinal disorders
 insulin resistance,Metabolism and nutrition disorders
 aptyalism,Psychiatric disorders
 hypopyon,Eye disorders
 angiodysplasia,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
-fuchs' syndrome,"Pregnancy, puerperium and perinatal conditions"
+fuchs' syndrome,Reproductive system and breast disorders
 regurgitation,Cardiac disorders
 haemorrhagic disorder,Vascular disorders
 boredom,Psychiatric disorders
 monoclonal gammopathy,Metabolism and nutrition disorders
 homicidal ideation,Psychiatric disorders
-morphoea,Gastrointestinal disorders
+wallerian degeneration,Musculoskeletal and connective tissue disorders
+morphoea,Skin and subcutaneous tissue disorders
 meniscus cyst,Musculoskeletal and connective tissue disorders
 prepuce redundant,Reproductive system and breast disorders
 immobilisation syndrome,Musculoskeletal and connective tissue disorders
 adhesiolysis,Surgical and medical procedures
-neutrophilia,Blood and lymphatic system disorders
 piloerection,Skin and subcutaneous tissue disorders
-locomotive syndrome,Musculoskeletal and connective tissue disorders
+locomotive syndrome,General disorders and administration site conditions
 autophobia,Psychiatric disorders
 cor pulmonale,"Respiratory, thoracic and mediastinal disorders"
-unmasking of previously unidentified disease,General disorders and administration site conditions
 disorder of sex development,"Congenital, familial and genetic disorders"
 paresis,Nervous system disorders
 haemophilia,Blood and lymphatic system disorders
 alcoholic,Metabolism and nutrition disorders
 clonus,Nervous system disorders
 stag horn calculus,Renal and urinary disorders
-discouragement,General disorders and administration site conditions
+discouragement,Social circumstances
 dissociative disorder,Psychiatric disorders
-peritoneal disorder,Blood and lymphatic system disorders
+peritoneal disorder,Hepatobiliary disorders
+turner's syndrome,Nervous system disorders
 pash syndrome,Skin and subcutaneous tissue disorders
-sapho syndrome,Nervous system disorders
-diapedesis,Skin and subcutaneous tissue disorders
+diapedesis,General disorders and administration site conditions
 hangnail,Skin and subcutaneous tissue disorders
 rabies,Infections and infestations
+chillblains,Endocrine disorders
 intertrigo,Skin and subcutaneous tissue disorders
-exaggerated startle response,Investigations
+exaggerated startle response,Psychiatric disorders
 meibomian gland dysfunction,Endocrine disorders
-autonomic dysreflexia,Vascular disorders
+autonomic dysreflexia,Nervous system disorders
 secondary amyloidosis,Metabolism and nutrition disorders
 von willebrand's disease,Blood and lymphatic system disorders
-priapism,Reproductive system and breast disorders
+dissociation,Psychiatric disorders
+diabetic ulcer,Vascular disorders
+priapism,Vascular disorders
 human anaplasmosis,Infections and infestations
-chillblains,Gastrointestinal disorders
 gilbert's syndrome,Endocrine disorders
 hypogonadism,Reproductive system and breast disorders
 thoracic outlet syndrome,Musculoskeletal and connective tissue disorders
 asymmetric gluteal fold,Musculoskeletal and connective tissue disorders
+dacryoadenitis acquired,Infections and infestations
 stridor,"Respiratory, thoracic and mediastinal disorders"
 diastolic dysfunction,Cardiac disorders
 lead dislodgement,Metabolism and nutrition disorders
-amoebiasis,Infections and infestations
 gammopathy,Metabolism and nutrition disorders
-diaphragmatic disorder,Surgical and medical procedures
+diaphragmatic disorder,"Respiratory, thoracic and mediastinal disorders"
 catheter management,Surgical and medical procedures
+angiokeratoma,Skin and subcutaneous tissue disorders
 cyanosis central,Nervous system disorders
+tissue rupture,Musculoskeletal and connective tissue disorders
 vitritis,Eye disorders
 cytokine storm,Immune system disorders
 haematidrosis,Skin and subcutaneous tissue disorders
 social problem,Psychiatric disorders
+bradypnoea,"Respiratory, thoracic and mediastinal disorders"
 strangury,Vascular disorders
 empty sella syndrome,Nervous system disorders
-may-thurner syndrome,Immune system disorders
+castleman's disease,Renal and urinary disorders
+may-thurner syndrome,Skin and subcutaneous tissue disorders
 chronic pigmented purpura,Skin and subcutaneous tissue disorders
 hyperthecosis,Surgical and medical procedures
-acupuncture,General disorders and administration site conditions
+acupuncture,Nervous system disorders
 nuchal rigidity,"Pregnancy, puerperium and perinatal conditions"
 lymphangiectasia,Vascular disorders
 tissue discolouration,Musculoskeletal and connective tissue disorders
 haemorrhagic cyst,Vascular disorders
-epidermolysis bullosa,Skin and subcutaneous tissue disorders
 crown lengthening,Gastrointestinal disorders
-vestibular disorder,Ear and labyrinth disorders
-narcolepsy,Nervous system disorders
+vestibular disorder,Nervous system disorders
+narcolepsy,Psychiatric disorders
 chronotropic incompetence,Cardiac disorders
-multimorbidity,Social circumstances
-alcohol septal ablation,Cardiac disorders
+multimorbidity,Psychiatric disorders
+alcohol septal ablation,Surgical and medical procedures
 sedation,Psychiatric disorders
 giardiasis,Infections and infestations
-haemophobia,Blood and lymphatic system disorders
-spina bifida,Musculoskeletal and connective tissue disorders
-alice in wonderland syndrome,Skin and subcutaneous tissue disorders
+haemophobia,Psychiatric disorders
+vulvar erosion,Reproductive system and breast disorders
+spina bifida,"Congenital, familial and genetic disorders"
+alice in wonderland syndrome,Endocrine disorders
 injection,General disorders and administration site conditions
-organ donor,Social circumstances
+vaccination failure,General disorders and administration site conditions
+organ donor,Surgical and medical procedures
 acquired epidermolysis bullosa,Skin and subcutaneous tissue disorders
+carotid bruit,Vascular disorders
 anovulatory cycle,Reproductive system and breast disorders
 precocious puberty,Endocrine disorders
 piriformis syndrome,Nervous system disorders
@@ -728,84 +763,85 @@ amusia,Gastrointestinal disorders
 arachnoid cyst,Nervous system disorders
 lipoinjection,"Injury, poisoning and procedural complications"
 hemianopia,Nervous system disorders
-cuboid syndrome,Nervous system disorders
+cuboid syndrome,Skin and subcutaneous tissue disorders
 high intensity focused ultrasound,Investigations
 dermatophytosis,Skin and subcutaneous tissue disorders
 dermo-hypodermitis,Skin and subcutaneous tissue disorders
 arachnoid web,Nervous system disorders
 collagen-vascular disease,Vascular disorders
+parinaud syndrome,Vascular disorders
+lupus pleurisy,"Respiratory, thoracic and mediastinal disorders"
 macrocornea,Eye disorders
 digeorge's syndrome,Gastrointestinal disorders
 hypokalaemic syndrome,Metabolism and nutrition disorders
-minimal residual disease,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
-time perception altered,Investigations
+minimal residual disease,General disorders and administration site conditions
+time perception altered,Nervous system disorders
 negativism,Psychiatric disorders
 cryptococcosis,Infections and infestations
-anotia,Gastrointestinal disorders
+anotia,Nervous system disorders
 eccrine squamous syringometaplasia,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
-dysmetria,Ear and labyrinth disorders
-castleman's disease,Immune system disorders
+dysmetria,Eye disorders
+erythrasma,Skin and subcutaneous tissue disorders
 pleocytosis,Blood and lymphatic system disorders
 pineal gland cyst,Endocrine disorders
 urethritis,Renal and urinary disorders
 stomal varices,Gastrointestinal disorders
+microtia,Gastrointestinal disorders
 neovascularisation,Vascular disorders
+drug chemical incompatibility,General disorders and administration site conditions
 hypertensive urgency,Vascular disorders
 perianal cyst,Gastrointestinal disorders
-psoas sign,General disorders and administration site conditions
+psoas sign,Musculoskeletal and connective tissue disorders
 chorea,Nervous system disorders
 visuospatial deficit,Nervous system disorders
-post ablation syndrome,General disorders and administration site conditions
-periodontal disease,Gastrointestinal disorders
+post ablation syndrome,Surgical and medical procedures
+periodontal disease,General disorders and administration site conditions
 colo-urethral fistula,Renal and urinary disorders
+multisystem inflammatory syndrome in children,"Congenital, familial and genetic disorders"
 shock haemorrhagic,Vascular disorders
 parotitis,"Respiratory, thoracic and mediastinal disorders"
 near drowning,"Injury, poisoning and procedural complications"
+lenticular pigmentation,Eye disorders
 ammonia,Investigations
 areflexia,Nervous system disorders
 spinal claudication,Vascular disorders
 atrophy of globe,Eye disorders
-carcinogenicity,General disorders and administration site conditions
-parinaud syndrome,Vascular disorders
+carcinogenicity,"Injury, poisoning and procedural complications"
+anamnestic reaction,General disorders and administration site conditions
 intraneural cyst,Nervous system disorders
 hypertensive emergency,Vascular disorders
 american trypanosomiasis,Infections and infestations
-multisystem inflammatory syndrome in children,Immune system disorders
-clumsiness,Nervous system disorders
 xxx syndrome,"Congenital, familial and genetic disorders"
-transfusion reaction,Immune system disorders
+transfusion reaction,General disorders and administration site conditions
 plica syndrome,Musculoskeletal and connective tissue disorders
 iron overload,Metabolism and nutrition disorders
 aneurysm ruptured,Vascular disorders
 acromegaly,Endocrine disorders
 lupus miliaris disseminatus faciei,Immune system disorders
-bradypnoea,"Respiratory, thoracic and mediastinal disorders"
+sarcoid-like reaction,Immune system disorders
 water pollution,Social circumstances
 salpingo-oophoritis,Reproductive system and breast disorders
-evans syndrome,Immune system disorders
+evans syndrome,Skin and subcutaneous tissue disorders
 disseminated aspergillosis,Infections and infestations
 scapholunate dissociation,Musculoskeletal and connective tissue disorders
 elephantiasis,Gastrointestinal disorders
 sebaceous gland disorder,Skin and subcutaneous tissue disorders
-lipoatrophy,Metabolism and nutrition disorders
+lipoatrophy,Skin and subcutaneous tissue disorders
 lacunar infarction,Nervous system disorders
 loss of proprioception,Nervous system disorders
 blebitis,Eye disorders
-palpable purpura,Reproductive system and breast disorders
+palpable purpura,General disorders and administration site conditions
 tattoo,Skin and subcutaneous tissue disorders
 passive smoking,Social circumstances
 vitello-intestinal duct remnant,Gastrointestinal disorders
 bereavement,Psychiatric disorders
 thought blocking,Psychiatric disorders
-calciphylaxis,Vascular disorders
-melkersson-rosenthal syndrome,Immune system disorders
+calciphylaxis,General disorders and administration site conditions
+melkersson-rosenthal syndrome,"Congenital, familial and genetic disorders"
 trichodynia,Skin and subcutaneous tissue disorders
 scintillating scotoma,Eye disorders
 tanning,Skin and subcutaneous tissue disorders
-central auditory processing disorder,Ear and labyrinth disorders
-vaccination failure,General disorders and administration site conditions
-angiokeratoma,Skin and subcutaneous tissue disorders
-plagiocephaly,Nervous system disorders
+central auditory processing disorder,Nervous system disorders
 anovulvar fistula,Reproductive system and breast disorders
 paravalvular regurgitation,Cardiac disorders
 ipex syndrome,Skin and subcutaneous tissue disorders
@@ -815,111 +851,120 @@ hyphaema,Infections and infestations
 secondary syphilis,Immune system disorders
 cyclitic membrane,Skin and subcutaneous tissue disorders
 gliosis,Nervous system disorders
+gonorrhoea,Reproductive system and breast disorders
+mastocytosis,Endocrine disorders
 polyglandular disorder,Reproductive system and breast disorders
-fallot's tetralogy,"Congenital, familial and genetic disorders"
-lhermitte's sign,Nervous system disorders
+lhermitte's sign,Eye disorders
 cystic fibrosis,"Respiratory, thoracic and mediastinal disorders"
+aversion,Psychiatric disorders
 vulvitis,Reproductive system and breast disorders
 papulopustular rosacea,Skin and subcutaneous tissue disorders
 cholera,Hepatobiliary disorders
 pyramidal tract syndrome,Nervous system disorders
-spinal flattening,Musculoskeletal and connective tissue disorders
-parotid duct obstruction,Endocrine disorders
+spinal flattening,Nervous system disorders
+parotid duct obstruction,Gastrointestinal disorders
 vasculitic ulcer,Vascular disorders
-entropion,Nervous system disorders
+entropion,Eye disorders
 macrodactyly,Musculoskeletal and connective tissue disorders
-rosai-dorfman syndrome,Immune system disorders
+rosai-dorfman syndrome,Renal and urinary disorders
 fetishism,Nervous system disorders
-illiteracy,Social circumstances
+illiteracy,Metabolism and nutrition disorders
+disseminated toxoplasmosis,Infections and infestations
 obsessive thoughts,Psychiatric disorders
 exfoliation syndrome,Skin and subcutaneous tissue disorders
-hyperresponsive to stimuli,General disorders and administration site conditions
+hyperresponsive to stimuli,Nervous system disorders
+vexas syndrome,Musculoskeletal and connective tissue disorders
 vulvovaginitis,Reproductive system and breast disorders
 amniorrhexis,Surgical and medical procedures
 sickle cell disease,Blood and lymphatic system disorders
 atopy,Immune system disorders
-anisocoria,Eye disorders
+anisocoria,Skin and subcutaneous tissue disorders
 mastoid disorder,"Respiratory, thoracic and mediastinal disorders"
 plague,Infections and infestations
 body tinea,Skin and subcutaneous tissue disorders
-factor viii inhibition,Investigations
-dacryocanaliculitis,Vascular disorders
+factor viii inhibition,Infections and infestations
+dacryocanaliculitis,Eye disorders
 haematosalpinx,Reproductive system and breast disorders
 hydrosalpinx,Reproductive system and breast disorders
-antibiotic prophylaxis,General disorders and administration site conditions
+giant cell epulis,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
+craniosynostosis,Nervous system disorders
+antibiotic prophylaxis,Infections and infestations
 menstruation delayed,Reproductive system and breast disorders
 systolic dysfunction,Cardiac disorders
+enthesophyte,Musculoskeletal and connective tissue disorders
 alanine aminotransferase,Investigations
 complement factor c3,Blood and lymphatic system disorders
 vulvovaginitis streptococcal,Reproductive system and breast disorders
+disseminated strongyloidiasis,Infections and infestations
 ovulation disorder,Reproductive system and breast disorders
 phlebitis superficial,Vascular disorders
 remission not achieved,General disorders and administration site conditions
 delayed puberty,Endocrine disorders
-sarcoid-like reaction,Immune system disorders
 capillary leak syndrome,Vascular disorders
 activated protein c resistance,Metabolism and nutrition disorders
 brown-sequard syndrome,Skin and subcutaneous tissue disorders
-contrast media reaction,Immune system disorders
-school refusal,Social circumstances
+contrast media reaction,Eye disorders
+school refusal,Psychiatric disorders
 confabulation,Musculoskeletal and connective tissue disorders
 expulsion of medication,General disorders and administration site conditions
 venomous sting,"Injury, poisoning and procedural complications"
-incorrect dosage administered,Investigations
+incorrect dosage administered,"Injury, poisoning and procedural complications"
 executive dysfunction,Nervous system disorders
 reaction to preservatives,General disorders and administration site conditions
-mutism,Musculoskeletal and connective tissue disorders
+mutism,Psychiatric disorders
 medication dilution,Social circumstances
 ejaculation disorder,Reproductive system and breast disorders
 epididymal cyst,Reproductive system and breast disorders
+zoonosis,Infections and infestations
+dirofilariasis,Infections and infestations
 yawning,Nervous system disorders
-xerosis,Skin and subcutaneous tissue disorders
 ventriculo-peritoneal shunt,Cardiac disorders
 epiploic appendagitis,Gastrointestinal disorders
+myokymia,Nervous system disorders
 tetany,Nervous system disorders
-peritoneal perforation,Hepatobiliary disorders
+peritoneal perforation,Renal and urinary disorders
 transposition of the great vessels,Vascular disorders
 dermabrasion,Skin and subcutaneous tissue disorders
-zoonosis,Infections and infestations
 water intoxication,"Injury, poisoning and procedural complications"
 branchial cyst,Vascular disorders
-tissue rupture,Musculoskeletal and connective tissue disorders
 splenitis,Hepatobiliary disorders
 trichiniasis,Infections and infestations
 rubella,Infections and infestations
-depilation,Surgical and medical procedures
+depilation,General disorders and administration site conditions
 marital problem,Psychiatric disorders
 ebola disease,Infections and infestations
-freeman-sheldon syndrome,Immune system disorders
-dwarfism,"Congenital, familial and genetic disorders"
+freeman-sheldon syndrome,General disorders and administration site conditions
+dwarfism,Metabolism and nutrition disorders
 lentigo,Eye disorders
+mycotoxicosis,Infections and infestations
 bubonic plague,Infections and infestations
-sickle cell trait,Blood and lymphatic system disorders
+pseudodementia,Nervous system disorders
+sickle cell trait,"Congenital, familial and genetic disorders"
 interchange of vaccine products,Product issues
-gonorrhoea,Infections and infestations
 hypersplenism,Endocrine disorders
-bleeding time shortened,Investigations
-chiropractic,Surgical and medical procedures
+bleeding time shortened,General disorders and administration site conditions
+chiropractic,Musculoskeletal and connective tissue disorders
 excessive dietary fibre intake,Metabolism and nutrition disorders
 gianotti-crosti syndrome,Nervous system disorders
-myxoid cyst,Renal and urinary disorders
+myxoid cyst,General disorders and administration site conditions
 thanatophobia,Psychiatric disorders
 hemianopia homonymous,Nervous system disorders
 selective mutism,Nervous system disorders
 uvulitis,Renal and urinary disorders
+pseudostroke,Nervous system disorders
 temperature regulation disorder,Metabolism and nutrition disorders
-low density lipoprotein,Investigations
-mastocytosis,Blood and lymphatic system disorders
+hyporesponsive to stimuli,Psychiatric disorders
+irregular breathing,"Respiratory, thoracic and mediastinal disorders"
+low density lipoprotein,Metabolism and nutrition disorders
 galactorrhoea,Gastrointestinal disorders
 delusional perception,Psychiatric disorders
 ectrodactyly,Musculoskeletal and connective tissue disorders
-growth failure,Metabolism and nutrition disorders
-lemierre syndrome,Vascular disorders
+drug clearance,Investigations
 aerophobia,Skin and subcutaneous tissue disorders
 perthes disease,Musculoskeletal and connective tissue disorders
 wrong dosage formulation,Product issues
 contraceptive diaphragm,Reproductive system and breast disorders
-haematocrit,Investigations
+haematocrit,Blood and lymphatic system disorders
 occupational physical problem,Social circumstances
 incomplete spinal fusion,Musculoskeletal and connective tissue disorders
 bartholin's gland disorder,Endocrine disorders
@@ -928,123 +973,128 @@ trichotillomania,Psychiatric disorders
 circumcision,Surgical and medical procedures
 job change,Social circumstances
 meniscopathy,Musculoskeletal and connective tissue disorders
+convalescent,General disorders and administration site conditions
 trigger points,General disorders and administration site conditions
-fasting,Metabolism and nutrition disorders
 cyclothymic disorder,Psychiatric disorders
-chronic cheek biting,Skin and subcutaneous tissue disorders
+chronic cheek biting,Gastrointestinal disorders
 monkeypox,Infections and infestations
-spinal support,Musculoskeletal and connective tissue disorders
+spinal support,Surgical and medical procedures
 gaucher's disease,Metabolism and nutrition disorders
 child syndrome,"Congenital, familial and genetic disorders"
 cannabinoid hyperemesis syndrome,Nervous system disorders
 enostosis,Musculoskeletal and connective tissue disorders
-dissociation,Psychiatric disorders
+hypotrichosis,"Congenital, familial and genetic disorders"
 haemophilia carrier,"Congenital, familial and genetic disorders"
 spinal retrolisthesis,Musculoskeletal and connective tissue disorders
 fumbling,Gastrointestinal disorders
-coital bleeding,Reproductive system and breast disorders
+coital bleeding,"Pregnancy, puerperium and perinatal conditions"
 body modification,Metabolism and nutrition disorders
 apraxia,Nervous system disorders
-aversion,"Congenital, familial and genetic disorders"
 hypermutation,"Congenital, familial and genetic disorders"
 syndesmophyte,Musculoskeletal and connective tissue disorders
 strongyloidiasis,Infections and infestations
 vasoconstriction,Vascular disorders
-vexas syndrome,Vascular disorders
 omphalorrhexis,Musculoskeletal and connective tissue disorders
 papillitis,Infections and infestations
-stiff person syndrome,Nervous system disorders
-self-medication,Social circumstances
+stiff person syndrome,General disorders and administration site conditions
+postnatal growth restriction,"Pregnancy, puerperium and perinatal conditions"
 scaphoid abdomen,Gastrointestinal disorders
-educational problem,Social circumstances
+educational problem,Psychiatric disorders
 cyst aspiration,"Respiratory, thoracic and mediastinal disorders"
-gitelman's syndrome,Endocrine disorders
-asbestosis,Immune system disorders
+neutralising antibodies,Investigations
+gitelman's syndrome,Renal and urinary disorders
+asbestosis,"Respiratory, thoracic and mediastinal disorders"
 karnofsky scale,Investigations
-mediastinal disorder,"Respiratory, thoracic and mediastinal disorders"
+mediastinal disorder,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
 extramammary paget's disease,Reproductive system and breast disorders
 idiopathic inflammatory myopathy,Musculoskeletal and connective tissue disorders
 colopathy,Nervous system disorders
 menometrorrhagia,Reproductive system and breast disorders
 varicose ulceration,Vascular disorders
-linear iga disease,Skin and subcutaneous tissue disorders
-miscarriage of partner,"Pregnancy, puerperium and perinatal conditions"
+linear iga disease,Musculoskeletal and connective tissue disorders
+multicentric reticulohistiocytosis,Blood and lymphatic system disorders
+miscarriage of partner,Reproductive system and breast disorders
 cellulite,Infections and infestations
 pseudophakia,Eye disorders
 anorgasmia,Metabolism and nutrition disorders
-enthesophyte,Musculoskeletal and connective tissue disorders
-multicentric reticulohistiocytosis,Blood and lymphatic system disorders
+otolithiasis,Renal and urinary disorders
+depersonalisation/derealisation disorder,Psychiatric disorders
 ectropion,Musculoskeletal and connective tissue disorders
 graves' disease,Musculoskeletal and connective tissue disorders
-vulvar erosion,Reproductive system and breast disorders
+plaque shift,General disorders and administration site conditions
+hyperglycaemic crisis,Metabolism and nutrition disorders
 ligamentum flavum hypertrophy,Musculoskeletal and connective tissue disorders
 iridocele,Eye disorders
 ranula,Skin and subcutaneous tissue disorders
-myringitis,Ear and labyrinth disorders
-hyperglycaemic crisis,Metabolism and nutrition disorders
+myringitis,Musculoskeletal and connective tissue disorders
 tenolysis,Musculoskeletal and connective tissue disorders
 specialist consultation,Social circumstances
 pupillary reflex impaired,Eye disorders
-charles bonnet syndrome,Immune system disorders
+charles bonnet syndrome,"Respiratory, thoracic and mediastinal disorders"
+brucellosis,Infections and infestations
+xanthopsia,Nervous system disorders
 vulva cyst,Reproductive system and breast disorders
 aortitis,Vascular disorders
-meibomianitis,Infections and infestations
-chromatopsia,Hepatobiliary disorders
+meibomianitis,Gastrointestinal disorders
+chromatopsia,Nervous system disorders
 roux loop conversion,Surgical and medical procedures
 meralgia paraesthetica,Nervous system disorders
-myiasis,Eye disorders
-neutralising antibodies,Investigations
-craniosynostosis,Nervous system disorders
+myiasis,Infections and infestations
 callus formation delayed,Musculoskeletal and connective tissue disorders
 peritoneal lesion,Gastrointestinal disorders
 rhinolithiasis,"Respiratory, thoracic and mediastinal disorders"
-jarisch-herxheimer reaction,Immune system disorders
+jarisch-herxheimer reaction,General disorders and administration site conditions
 post vaccination syndrome,General disorders and administration site conditions
-indifference,Metabolism and nutrition disorders
+indifference,Social circumstances
 gluteus medius syndrome,Musculoskeletal and connective tissue disorders
-dacryolith,Renal and urinary disorders
-shunt occlusion,Nervous system disorders
+dacryolith,Eye disorders
+shunt occlusion,Vascular disorders
 sinoatrial block,Cardiac disorders
 lymphocele,Gastrointestinal disorders
 bartholinitis,Infections and infestations
 paracentesis,Surgical and medical procedures
-loefgren syndrome,Immune system disorders
+loefgren syndrome,Skin and subcutaneous tissue disorders
 toxic shock syndrome streptococcal,Infections and infestations
+necrobiosis,Metabolism and nutrition disorders
 coarctation of the aorta,Vascular disorders
 gerstmann's syndrome,Nervous system disorders
 stasis syndrome,Vascular disorders
 alveolar proteinosis,"Respiratory, thoracic and mediastinal disorders"
-necrobiosis,Metabolism and nutrition disorders
 vibration syndrome,General disorders and administration site conditions
-charcot-leyden crystals,Renal and urinary disorders
-turner's syndrome,Nervous system disorders
+pathergy reaction,Immune system disorders
+charcot-leyden crystals,Metabolism and nutrition disorders
 asplenia,Hepatobiliary disorders
 caudal regression syndrome,Nervous system disorders
 naevus flammeus,Skin and subcutaneous tissue disorders
-polychromasia,Blood and lymphatic system disorders
+polychromasia,"Congenital, familial and genetic disorders"
 rest regimen,General disorders and administration site conditions
-inferiority complex,Surgical and medical procedures
+inferiority complex,Musculoskeletal and connective tissue disorders
 milia,Skin and subcutaneous tissue disorders
+munchausen's syndrome,Endocrine disorders
+lewis-sumner syndrome,Immune system disorders
 pachydermoperiostosis,Musculoskeletal and connective tissue disorders
 intrusive thoughts,Psychiatric disorders
 enamel anomaly,Gastrointestinal disorders
-thecal sac compression,Vascular disorders
-distributive shock,Cardiac disorders
+thecal sac compression,General disorders and administration site conditions
 poncet's disease,"Respiratory, thoracic and mediastinal disorders"
+distributive shock,Vascular disorders
 corticobasal degeneration,Nervous system disorders
 urea cycle disorder,Metabolism and nutrition disorders
 paraphimosis,Infections and infestations
-pseudostroke,Nervous system disorders
-carbuncle,Vascular disorders
+clinodactyly,Musculoskeletal and connective tissue disorders
+carbuncle,Gastrointestinal disorders
+mycetoma mycotic,Infections and infestations
 grunting,"Respiratory, thoracic and mediastinal disorders"
-visceral congestion,Gastrointestinal disorders
-os trigonum,"Respiratory, thoracic and mediastinal disorders"
+visceral congestion,General disorders and administration site conditions
+os trigonum,Ear and labyrinth disorders
 plasmacytosis,Blood and lymphatic system disorders
+demodicidosis,Skin and subcutaneous tissue disorders
 pica,Skin and subcutaneous tissue disorders
 focal peritonitis,Infections and infestations
 herbal toxicity,"Injury, poisoning and procedural complications"
-carcinoid syndrome,Immune system disorders
+carcinoid syndrome,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
 medical aid in dying,General disorders and administration site conditions
+hypophysitis,Reproductive system and breast disorders
 spontaneous rupture of membranes,General disorders and administration site conditions
 vessel perforation,Vascular disorders
 arrhythmic storm,Vascular disorders
@@ -1053,7 +1103,7 @@ refraction disorder,Eye disorders
 aphakia,Eye disorders
 enterorrhaphy,Gastrointestinal disorders
 kinesiophobia,Psychiatric disorders
-yao syndrome,Nervous system disorders
+yao syndrome,General disorders and administration site conditions
 rhesus incompatibility,Immune system disorders
 electrocauterisation,Surgical and medical procedures
 aorta hypoplasia,Vascular disorders
@@ -1064,9 +1114,10 @@ derealisation,Skin and subcutaneous tissue disorders
 second primary malignancy,"Neoplasms benign, malignant and unspecified (incl cysts and polyps)"
 epiglottis dysfunction,"Respiratory, thoracic and mediastinal disorders"
 cytotoxic lesions of corpus callosum,Nervous system disorders
+cholesterosis,Metabolism and nutrition disorders
+amniotic band syndrome,"Pregnancy, puerperium and perinatal conditions"
 foreign body aspiration,"Injury, poisoning and procedural complications"
 achenbach syndrome,Nervous system disorders
-mycetoma mycotic,Infections and infestations
 encephalomalacia,Nervous system disorders
 periphlebitis,Vascular disorders
 hypotony maculopathy,Eye disorders
@@ -1078,6 +1129,5 @@ otosalpingitis,Reproductive system and breast disorders
 aortoenteric fistula,Vascular disorders
 dural tear,Nervous system disorders
 reaction to excipient,General disorders and administration site conditions
-orthopnoea,"Respiratory, thoracic and mediastinal disorders"
-bankart lesion,"Injury, poisoning and procedural complications"
+bankart lesion,Skin and subcutaneous tissue disorders
 omental infarction,Gastrointestinal disorders
